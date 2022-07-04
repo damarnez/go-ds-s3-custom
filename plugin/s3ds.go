@@ -3,7 +3,7 @@ package plugin
 import (
 	"fmt"
 
-	s3ds "github.com/ipfs/go-ds-s3"
+	s3ds "github.com/damarnez/go-ds-s3-custom"
 	"github.com/ipfs/go-ipfs/plugin"
 	"github.com/ipfs/go-ipfs/repo"
 	"github.com/ipfs/go-ipfs/repo/fsrepo"

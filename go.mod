@@ -1,4 +1,4 @@
-module github.com/ipfs/go-ds-s3
+module github.com/damarnez/go-ds-s3-custom
 
 require (
 	github.com/aws/aws-sdk-go v1.35.30
@@ -182,7 +182,6 @@ require (
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
 	github.com/wI2L/jsondiff v0.2.0 // indirect
-	github.com/warpfork/go-testmark v0.9.0 // indirect
 	github.com/whyrusleeping/base32 v0.0.0-20170828182744-c30ac30633cc // indirect
 	github.com/whyrusleeping/cbor-gen v0.0.0-20210219115102-f37d292932f2 // indirect
 	github.com/whyrusleeping/chunker v0.0.0-20181014151217-fe64bd25879f // indirect
