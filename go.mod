@@ -211,3 +211,5 @@ require (
 )
 
 go 1.17
+
+replace github.com/ipfs/go-ds-s3 v0.8.0 => github.com/damarnez/go-ds-s3-custom v0.8.0
